@@ -7,6 +7,7 @@ pinMode(5, OUTPUT);
 pinMode(6, OUTPUT);
 }
 
+
 void loop() {
   // put your main code here, to run repeatedly, aka loop:
 digitalWrite(2, HIGH);// Turn Led 1 on
