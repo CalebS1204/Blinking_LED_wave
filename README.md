@@ -2,3 +2,5 @@
 blinking LED wave with 500ms delay and 5 LED's, created on 1/14/2026.
 updated 3/2/2026.
 Ready for Grading.
+
+Project 1
